@@ -1,7 +1,12 @@
 // Interactive I_O and Mathematical Expressions Programming Project.cpp : This project covers two programming examples, Ingredient Adjuster and Interest Earned.
 
-#include <iostream>
 
+// Interest Earned Program.
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+
+using namespace std;
 int main()
 {
     // Declaring and initailizing the variables.
@@ -32,8 +37,6 @@ int main()
     cout << "Interest:           $" << setw(6) << interest << endl;
     cout << "Amount in Savings: $" << setw(6) << amount << endl;
 
-
     return 0;
-
 }
 
