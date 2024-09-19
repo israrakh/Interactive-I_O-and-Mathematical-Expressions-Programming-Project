@@ -1,11 +1,6 @@
 // Interactive I_O and Mathematical Expressions Programming Project.cpp : This project covers two programming examples, Ingredient Adjuster and Interest Earned.
 
 #include <iostream>
-#include <iomanip>
-#include <cmath> // for pow function.
-using namespace std;
-
-// Interest Earned Program.
 
 int main()
 {
