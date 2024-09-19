@@ -37,6 +37,7 @@ int main()
     cout << "Interest:           $" << setw(6) << interest << endl;
     cout << "Amount in Savings: $" << setw(6) << amount << endl;
 
+
     return 0;
 
 }
